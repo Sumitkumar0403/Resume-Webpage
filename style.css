@@ -28,6 +28,7 @@ h3 {
 }
 
 main { 
+    
     display: grid;
     grid-template-columns: 40% 60%;
     margin-top: 3em;
@@ -65,4 +66,8 @@ h1, h2, h3 {
 
 h3{
     font-weight: 600;
+}
+
+#divji{
+    border: 2px solid black;
 }
